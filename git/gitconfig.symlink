@@ -4,9 +4,8 @@
 [hub]
         protocol = https
 [user]
-        name = Mike Rodham
-        email = switchytm@gmail.com
-        signingkey = EE5D9D20
+        name = Gareth Thompson
+        email = gareth@codepotato.co.uk
 [credential]
         helper = osxkeychain
 [alias]
