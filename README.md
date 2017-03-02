@@ -3,7 +3,7 @@
 ## Install
 
 ```
-git clone --recursive git@github.com:mikerodham/dotfiles.git ~/.dotfiles
+git clone --recursive git@bitbucket.org:codepotato/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 script/bootstrap
 ```
